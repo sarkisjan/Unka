@@ -166,7 +166,7 @@ ul {
     margin: auto;
     font-size: 50px;
     background: -webkit-linear-gradient(45deg, #ABD171, #8678c5);
-    /* -webkit-background-clip: text; */
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
 }
